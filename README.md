@@ -1,1 +1,2 @@
 # leecode_practice
+记录下写leecode的代码和思路简记
